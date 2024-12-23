@@ -8,4 +8,4 @@ pip install -r requirements.txt
 
 EXPOSE 5153
 
-CMD ["python", "app.py]
+CMD ["python", "app.py"]
