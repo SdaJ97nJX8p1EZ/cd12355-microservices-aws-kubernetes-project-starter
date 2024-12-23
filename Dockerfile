@@ -1,4 +1,4 @@
-FROM python:3.14-rc-slim-bookworm
+FROM python:3.12.8-slim-bookworm
 
 WORKDIR /app
 COPY ./analytics/. /app
